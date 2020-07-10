@@ -1,4 +1,4 @@
-# React-Boilerplate-using-Webpack-Babel-Redux-Router-SCSS
+# React-Boilerplate-using-Webpack-Babel-Redux-Router
 The React boilerplate with Login page  for getting started with the React project
 
 React
@@ -12,9 +12,9 @@ SCSS
 
 ## Setting up the project
 
-  `git clone https://github.com/shivamangina/React-Boilerplate-using-Webpack-Babel-Redux-Router-SCSS.git`
+  `https://github.com/kumar342/React-Boilerpalte-using-Webpack-Babel-Redux-Router.git`
   
-  `cd React-Boilerplate-using-Webpack-Babel-Redux-Router-SCSS`
+  `cd React-Boilerplate-using-Webpack-Babel-Redux-Router`
  
   `yarn install`
  
